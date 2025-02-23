@@ -1,0 +1,2 @@
+class EmptyPreferencesError(IndexError):
+    pass
